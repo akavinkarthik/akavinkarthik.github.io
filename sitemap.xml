@@ -2,25 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://akavinkarthik.github.io/projects/</loc>
     <lastmod>2025-08-20T13:05:56-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/slms-for-plan-verification/</loc>
+    <loc>https://akavinkarthik.github.io/</loc>
     <lastmod>2025-08-20T13:05:56-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-20T13:05:56-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://akavinkarthik.github.io/blog/</loc>
     <lastmod>2025-08-20T13:01:29-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/test/</loc>
-    <lastmod>2025-08-20T13:01:29-07:00</lastmod>
+    <loc>https://akavinkarthik.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://akavinkarthik.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://akavinkarthik.github.io/tags/</loc>
   </url>
 </urlset>
