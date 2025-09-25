@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://akavinkarthik.github.io/sitemap.xml

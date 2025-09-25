@@ -4,9 +4,26 @@
     <title>Vin&#39;Log</title>
     <link>https://akavinkarthik.github.io/</link>
     <description>Recent content on Vin&#39;Log</description>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 22:05:52 -0700</lastBuildDate>
     <atom:link href="https://akavinkarthik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EEG Motor Imagery</title>
+      <link>https://akavinkarthik.github.io/projects/eeg-motor-imagery/</link>
+      <pubDate>Fri, 22 Aug 2025 22:05:52 -0700</pubDate>
+      <guid>https://akavinkarthik.github.io/projects/eeg-motor-imagery/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Raw EEG signals usually have so many artifacts which makes the training of
+models harder. So, we are trying to transform them into &lt;strong&gt;GFA&lt;/strong&gt; (Gramian Angular
+Field) projections and Reccurance Plots to capture the information from EEG
+signals and apply the method of transfer learning on models trained on the
+ImageNet (&lt;a href=&#34;https://doi.org/10.1109/CVPR.2009.5206848&#34;&gt;J. Deng et al.,2009&lt;/a&gt;) to
+classify them into tasks.&lt;/p&gt;
+&lt;h1 id=&#34;dataset&#34;&gt;Dataset&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.13026/C28G6P&#34;&gt;PhysioNet - EEG Motor Movement/Imagery Dataset&lt;/a&gt;
+consists of over 1500 one- and two-minute &lt;strong&gt;64-channels&lt;/strong&gt; EEG recordings,
+obtained from 109 volunteers in 14 experimental runs, as described below.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
